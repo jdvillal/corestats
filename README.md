@@ -1,4 +1,4 @@
-# Systats-rs
+# Corestats
 
 Cross platform resource monitor.
 
