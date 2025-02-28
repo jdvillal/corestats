@@ -8,11 +8,11 @@ Dark mode is also supported.
 
 ![Screenshot from 2023-10-10 08-09-03](https://github.com/jdvillal/systats-rs/assets/57422146/69bf7a0c-1f94-49c1-b149-eeeb0703ca9b)
 
-Systats-rs allows you to visualize the utilization of your computer resources the same way in different platforms.
+Corestats allows you to visualize the utilization of your computer resources the same way in different platforms.
 
 
 ##
-Currently, with systats-rs you can monitor:
+Currently, with Corestats you can monitor:
 *  CPU usage
 *  Memory usage
 *  Storage usage

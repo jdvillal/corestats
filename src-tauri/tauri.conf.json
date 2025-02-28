@@ -3,10 +3,10 @@
     "beforeBuildCommand": "npm run build",
     "beforeDevCommand": "npm run start",
     "devPath": "http://localhost:4200",
-    "distDir": "../dist/systats-rs"
+    "distDir": "../dist/corestats"
   },
   "package": {
-    "productName": "systats-rs",
+    "productName": "corestats",
     "version": "0.1.0"
   },
   "tauri": {
@@ -69,7 +69,7 @@
         "fullscreen": false,
         "height": 700,
         "resizable": true,
-        "title": "systats-rs",
+        "title": "Corestats",
         "width": 990,
         "decorations": true
       }
